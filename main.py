@@ -118,4 +118,7 @@ def back_to_login():
 
 if __name__ == '__main__':
     app.run(debug=True)
-    
+
+# A web based with flask python backend where the registered user are 
+# able to forgot password and the random generated password will send 
+# to user's email
